@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"落地页专家：一句话生成高转化营销落地页（卖点提炼 / 线框结构 / 高保真实现 / 转化自检 / 部署指引）","name":"lhg-landing-page","source":"./"}]}
